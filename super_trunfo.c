@@ -38,7 +38,7 @@ int main () {
     printf("Estado da carta N2: %s \n", estadob);
     printf("Cidade da carta N2: %s \n", cidadeb);
     printf("Numero de habitantes N2: %d \n", habitantesb);
-    printf("Area da cidade N2: %.2f Km²\n", areab);
+    printf("Area da cidade N2: %.2f Mil Km²\n", areab);
     printf("PIB da cidade N2: %.2f Bilhões\n", PIBb);
     printf("Pontos turisticos N2: %d \n", pontosb);
     //Aqui estou imprimindo as informações da carta N2 para o terminal
